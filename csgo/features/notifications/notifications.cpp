@@ -26,7 +26,7 @@ void c_notifications::add( bool display, OSHColor color, const std::string_view 
 	if( m_notifications.size( ) > 15 )
 		m_notifications.pop_front( );
 
-	g_csgo.m_convar->print_to_console( Color( 206, 115, 136 ), "[deadcell]" );
+	g_csgo.m_convar->print_to_console( Color( 206, 115, 136 ), "[amera]" );
 	g_csgo.m_convar->print_to_console( Color( 255, 255, 255 ), " %s\n", buf.c_str( ) );
 
 	if( display )
