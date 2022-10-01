@@ -786,12 +786,12 @@ void c_visuals::watermark( ) const {
 
 		g_renderer.ansi_text( g_renderer.m_fonts[ FONT_VERDANA_7PX ], OSHColor::FromARGB( 220, 255, 255, 255 ),
 			OSHColor( 0.f, 0.f, 0.f, 0.f ), size.Width - 268, 22, 0,
-			"deadcell | %s | out %ims | choking %s", time.c_str(), g_cl.m_ping, choking ? "true" : "false" );
+			"amera | %s | out %ims | choking %s", time.c_str(), g_cl.m_ping, choking ? "true" : "false" );
 	}
 	else {
 		g_renderer.ansi_text( g_renderer.m_fonts[ FONT_VERDANA_7PX ], OSHColor( 0.8f, 1.f, 1.f, 1.f ),
 			OSHColor( 0.f, 0.f, 0.f, 0.f ), size.Width - 268, 22, 0,
-			"deadcell | unconnected | %s", time.c_str() );
+			"amera | unconnected | %s", time.c_str() );
 	}
 }
 

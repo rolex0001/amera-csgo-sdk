@@ -47,7 +47,7 @@ static ulong_t __stdcall cheat_init( void *arg ) {
 		if( !console::allocate( "debug" ) )
 			std::abort( );
 
-		console::print( "initializing deadcell.\n" );
+		console::print( "initializing amera.\n" );
 
 		// redirect warnings to a window similar to errors.
 		_CrtSetReportMode( _CRT_WARN, _CRTDBG_MODE_WNDW );

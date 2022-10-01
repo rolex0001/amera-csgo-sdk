@@ -37,7 +37,7 @@
 #include "sdk/stack.h"
 
 // framework include.
-#include "../deadcell/inc.hpp"
+#include "../amera/inc.hpp"
 
 using namespace renderer;
 extern c_renderer g_renderer;

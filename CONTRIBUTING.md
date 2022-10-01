@@ -1,11 +1,11 @@
-# Contributing to DEADCELL
+# Contributing to amera
 We encourage community feedback and contributions. Here are some ways you can get involved if you are interested.
 
 ## Suggesting new features
-We are always looking for new feature ideas! If you have an idea, check if others have submitted a similar idea in the [Idea suggestion thread](https://github.com/EternityX/DEADCELL-CSGO/issues/4). You can upvote existing suggestions or submit a new one.
+We are always looking for new feature ideas! If you have an idea, check if others have submitted a similar idea in the [Idea suggestion thread](https://github.com/EternityX/amera-CSGO/issues/4). You can upvote existing suggestions or submit a new one.
 
 ## Finding an issue you can help with
-If you're unsure what to work on, check the [Issues](https://github.com/EternityX/DEADCELL-CSGO/issues) page.
+If you're unsure what to work on, check the [Issues](https://github.com/EternityX/amera-CSGO/issues) page.
 
 # Making changes
 
