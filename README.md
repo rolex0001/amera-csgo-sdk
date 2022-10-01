@@ -1,9 +1,5 @@
-<p align="center">
-  <img width="500" height="250" src="https://i.imgur.com/cEwKoeV.png">
-</p>
-
 ## Preface
-Full CS:GO project files for deadcell. For the OSHGui project, please see the [OSHGui repository](https://github.com/EternityX/DEADCELL-OSHGUI).
+Full CS:GO project files for amera
 
 This is *not* a ready-to-use cheat, it is missing a lot of core features and has a multitude of issues. As such it is highly recommended that you do not use this if you have no prior programming knowledge or a lack of game hacking knowledge in general.
 
@@ -41,13 +37,3 @@ Press `END`.
 - [KN4CK3R for OSHGui](https://github.com/KN4CK3R/OSHGui)
 - [nlohmann for a modern C++ implementation of JSON](https://github.com/nlohmann/json)
 - everyone who contributed to the project!
-
-## License
-Licensed under the MIT License. See [LICENSE](https://github.com/EternityX/DEADCELL-CSGO/blob/master/LICENSE) for more details.
-
-## Media
-![image](https://i.imgur.com/q5M8Qx4.png)
-![image](https://i.imgur.com/JcksnA7.png)
-![image](https://i.imgur.com/0wAOPPj.png)
-![image](https://i.imgur.com/nziS7Ek.png)
-![image](https://i.imgur.com/rtWEJiS.png)
