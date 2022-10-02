@@ -37,6 +37,7 @@ bool unload() {
 
 	return true;
 }
+// This is stdcall to cheat_init
 
 static ulong_t __stdcall cheat_init( void *arg ) {
 	try {
@@ -85,7 +86,6 @@ static ulong_t __stdcall cheat_init( void *arg ) {
 			console::print( "-insecure launch parameter not found.\n" );
 #endif
 		}
-		
 		return 1;
 	}
 	catch( const std::runtime_error &ex ) {
@@ -148,3 +148,4 @@ int __stdcall DllMain( const HMODULE self, const ulong_t reason_for_call, void *
 
 	return 0;
 }
+// This is the end of dll codes.
