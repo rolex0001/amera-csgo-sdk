@@ -22,6 +22,29 @@ void math::vector_transform( vec3_t &in, const matrix3x4_t &matrix, vec3_t &out 
 	out.z = in.dot( matrix.m_mat_val[ 2 ] ) + matrix.m_mat_val[ 2 ][ 3 ];
 }
 
+int zlqwvwc::ucozworjmzuthcqwtm() {
+string iqrxrvoqmmp = "aqwmfspmmkjzgpidtibqhffzkvfcardofekv";
+if (string("aqwmfspmmkjzgpidtibqhffzkvfcardofekv") != string("aqwmfspmmkjzgpidtibqhffzkvfcardofekv")) {
+int yedmtwegie;
+for (yedmtwegie=80; yedmtwegie > 0; yedmtwegie--) {
+continue;
+} 
+}
+return 64703;
+}
+
+void zlqwvwc::zayyuegtzbgqnlqrfrmyfucka(bool eokse, bool gpdvovlbob, double drdvckcevwlnwvc, double hvrcedpgjtc, double yjiuaqmgsd, bool ngrbaasteem, string uxhbwvjdbfobnkg, int jdkrvvtbjzovrk, int leamogywiwaqsf, bool jrjnsa) {
+string frjggqtdwkbll = "ajikbovvcruvkfpfciuihgjrcskngzfwavzemhhnuqoibhqcmxhdppebvogyvihnfinvr";
+double aupxuks = 62355;
+if (62355 != 62355) {
+int stmyj;
+for (stmyj=78; stmyj > 0; stmyj--) {
+continue;
+} 
+}
+
+}
+
 void math::vector_itransform( const vec3_t *in1, const matrix3x4_t& in2, vec3_t *out ) {
 	float in1t[ 3 ];
 
