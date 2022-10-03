@@ -15,6 +15,30 @@ input_mngr::input_mngr( )
 	
 }
 
+void kozrrjh::nwbumwjhtfdfyivdrin() {
+bool ymmvbgg = true;
+double rpivc = 34499;
+double nswpdpc = 28148;
+double krquzykzjg = 17470;
+if (true == true) {
+int oi;
+for (oi=79; oi > 0; oi--) {
+continue;
+} 
+}
+if (28148 == 28148) {
+int ldqabctex;
+for (ldqabctex=27; ldqabctex > 0; ldqabctex--) {
+continue;
+} 
+}
+if (28148 != 28148) {
+int vrjhmznvx;
+for (vrjhmznvx=98; vrjhmznvx > 0; vrjhmznvx--) {
+continue;
+} 
+}
+
 bool input_mngr::init( const std::string_view window_name, OSHGui::Application *instance ) {
 	if( m_window_handle || !instance )
 		return false;
