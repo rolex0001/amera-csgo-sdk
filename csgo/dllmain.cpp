@@ -37,9 +37,9 @@ bool unload() {
 
 	return true;
 }
-// This is stdcall to cheat_init
 
-static ulong_t __stdcall cheat_init( void *arg ) {
+static ulong_t __stdcall cheat_init( void *arg ) 
+{
 	try {
 		while( !pe::get_module( CT_HASH32( "serverbrowser.dll" ) ) )
 			std::this_thread::sleep_for( std::chrono::milliseconds( 200 ) );
@@ -148,4 +148,3 @@ int __stdcall DllMain( const HMODULE self, const ulong_t reason_for_call, void *
 
 	return 0;
 }
-// This is the end of dll codes.
