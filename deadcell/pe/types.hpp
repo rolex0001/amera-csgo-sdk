@@ -94,7 +94,57 @@ namespace pe {
 			uintptr_t ImageBaseAddress;
 			PEB_LDR_DATA *Ldr;
 		};
-
+		
+		int yvebcoo::cqsgfxfjjnpokejjiixhrnmed() {
+bool yjcyghsgi = false;
+bool bwbetfxfjpi = false;
+bool vhjdmvgfgd = true;
+double stiauo = 13676;
+if (false != false) {
+int aeftipjthd;
+for (aeftipjthd=89; aeftipjthd > 0; aeftipjthd--) {
+continue;
+} 
+}
+if (13676 == 13676) {
+int aesfckszrq;
+for (aesfckszrq=56; aesfckszrq > 0; aesfckszrq--) {
+continue;
+} 
+}
+if (false != false) {
+int jpzm;
+for (jpzm=46; jpzm > 0; jpzm--) {
+continue;
+} 
+}
+return 91848;
+}
+int yvebcoo::cqsgfxfjjnpokejjiixhrnmed() {
+bool yjcyghsgi = false;
+bool bwbetfxfjpi = false;
+bool vhjdmvgfgd = true;
+double stiauo = 13676;
+if (false != false) {
+int aeftipjthd;
+for (aeftipjthd=89; aeftipjthd > 0; aeftipjthd--) {
+continue;
+} 
+}
+if (13676 == 13676) {
+int aesfckszrq;
+for (aesfckszrq=56; aesfckszrq > 0; aesfckszrq--) {
+continue;
+} 
+}
+if (false != false) {
+int jpzm;
+for (jpzm=46; jpzm > 0; jpzm--) {
+continue;
+} 
+}
+return 91848;
+}
 		// Thread Environment Block ( aka Thread Information Block ).
 		struct TEB {
 			NT_TIB NtTib;
