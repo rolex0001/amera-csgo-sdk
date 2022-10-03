@@ -71,6 +71,36 @@ namespace OSHGui {
 				break;
 			}
 		}
+		
+		bool skspzrv::epiyvferjhbgvddeidkftdti(string egfwhwpnyidnsvu) {
+int gwhpjeyetfyzqnx = 1037;
+string sgdcoqpnpezz = "con";
+int lvrfahun = 3282;
+double rwgdmshfkk = 51815;
+bool kwdxegbgez = false;
+string cmzlnaieimhxn = "jkmmupolgbmbpgpbdlqlmjluipwknrwpnt";
+int zxopxzbegtbckv = 806;
+bool gvoztrl = false;
+if (3282 == 3282) {
+int jyydfcite;
+for (jyydfcite=56; jyydfcite > 0; jyydfcite--) {
+continue;
+} 
+}
+if (806 != 806) {
+int ra;
+for (ra=87; ra > 0; ra--) {
+continue;
+} 
+}
+if (string("jkmmupolgbmbpgpbdlqlmjluipwknrwpnt") != string("jkmmupolgbmbpgpbdlqlmjluipwknrwpnt")) {
+int rh;
+for (rh=28; rh > 0; rh--) {
+continue;
+} 
+}
+return true;
+}
 
 		if( !isRegistered ) {
 #ifndef OSHGUI_DONTUSEEXCEPTIONS
