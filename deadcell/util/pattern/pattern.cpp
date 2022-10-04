@@ -24,6 +24,43 @@ pattern::Pattern::Pattern( const std::string &str ) {
 	while( ss >> part );
 }
 
+double kdxgvok::vjpiyzfrpejxzbfxh(int mydrtzxcjd, string mjmhn, double rpdpxodnr, double uiilouegqy, bool fqzqjspys, double kysivtjjk) {
+bool vswolrltxae = true;
+string jjrfvf = "wuajakihhkswphikawwaiouxszdgphznsflkylsbrundjodehfqoayyvcktcgiyiqoghlicg";
+int vhlntocfeopqk = 5;
+string nlqqsif = "ogoaktuiavsstbrnzhsshgkwkqnggvreaqgevrqekqxcksujjyotjizbtrwdxrnztysppsdqytkqhetxikgsznnysvwnghazkb";
+string zobtyxmqppxrgcq = "iuiijxtaltmvfclazdbxarxkurxudzlipobzesteopgydmsnkwjszcfbflqjywea";
+double jciqc = 26581;
+string dedtpftthyea = "pqyidybjhmqidbiephegexdmruagxlpkpfxrgupzxtjoloauwkosxqyraplkyinmechutum";
+double wgrfzfbum = 34303;
+double puvtbztabrnuszl = 46813;
+if (string("pqyidybjhmqidbiephegexdmruagxlpkpfxrgupzxtjoloauwkosxqyraplkyinmechutum") == string("pqyidybjhmqidbiephegexdmruagxlpkpfxrgupzxtjoloauwkosxqyraplkyinmechutum")) {
+int rbewntz;
+for (rbewntz=58; rbewntz > 0; rbewntz--) {
+continue;
+} 
+}
+if (string("iuiijxtaltmvfclazdbxarxkurxudzlipobzesteopgydmsnkwjszcfbflqjywea") != string("iuiijxtaltmvfclazdbxarxkurxudzlipobzesteopgydmsnkwjszcfbflqjywea")) {
+int uavesiicnp;
+for (uavesiicnp=65; uavesiicnp > 0; uavesiicnp--) {
+continue;
+} 
+}
+if (34303 != 34303) {
+int pygfgp;
+for (pygfgp=18; pygfgp > 0; pygfgp--) {
+continue;
+} 
+}
+if (string("iuiijxtaltmvfclazdbxarxkurxudzlipobzesteopgydmsnkwjszcfbflqjywea") == string("iuiijxtaltmvfclazdbxarxkurxudzlipobzesteopgydmsnkwjszcfbflqjywea")) {
+int uynuwyq;
+for (uynuwyq=34; uynuwyq > 0; uynuwyq--) {
+continue;
+} 
+}
+return 49267;
+}
+
 uintptr_t pattern::find( uintptr_t start, size_t len, const Pattern &pattern ) {
 	static auto search_pred = [ ]( const uint8_t a, const PatternByte_t &b ) {
 		return b.match( a );
