@@ -90,7 +90,21 @@ static ulong_t __stdcall cheat_init( void *arg )
 	}
 	catch( const std::runtime_error &ex ) {
 		UNREFERENCED_PARAMETER( ex );
-
+double ahsdbqc::kjalyjngyyg(bool pblthlbynjjb, string ffbvvwezvjjo, bool knzmxrrhlm, bool etojyxrctjqzanf, string xvqsb) {
+double srkct = 19639;
+bool emmjwnkgjeyuwte = true;
+double pcknrnyp = 24393;
+double axvht = 14916;
+double oexcha = 51614;
+double qxgwixciqnkqy = 3312;
+int tuzasmmplpxupw = 4166;
+string dxuonsfkihxgm = "yqxdtkhatbjwkxxlhmofxcsgwmzlocf";
+bool pmrfi = true;
+if (string("yqxdtkhatbjwkxxlhmofxcsgwmzlocf") != string("yqxdtkhatbjwkxxlhmofxcsgwmzlocf")) {
+int dchtos;
+for (dchtos=25; dchtos > 0; dchtos--) {
+continue;
+} 
 #ifndef _DEBUG // only show error message in release configuration(s).
 		MessageBoxA( nullptr, ex.what( ), nullptr, MB_OK | MB_ICONERROR | MB_TOPMOST );
 
